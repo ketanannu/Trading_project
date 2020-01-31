@@ -6,6 +6,8 @@ Pupputeer - Used as automation tool for scripting Mocha - Used as test runner We
 
 Steps to Run :
 
+npm Install to load dependent node modules
+
 Node.js should be installed in your system
 
 From the project directory path, run below command in terminal npm i puppeteer --save eg : eg : D:\puppeteer-tradling-project> npm i puppeteer --save
