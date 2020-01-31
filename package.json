@@ -1,0 +1,27 @@
+{
+	"name": "puppeteer-tradling-project",
+	"version": "1.0.0",
+	"description": "Coding task for QA Automation Engineer @tradeling",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha --timeout=120000 automation-test-scripts/main.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ketanannu/puppeteer-tradling-project.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ketanannu/puppeteer-tradling-project/issues"
+	},
+	"homepage": "https://github.com/ketanannu/puppeteer-tradling-project#readme",
+	"dependencies": {
+		"chai": "^4.2.0",
+		"mocha": "^7.0.1",
+		"puppeteer": "^2.1.0"
+	},
+	"devDependencies": {
+		"prettier": "^1.19.1"
+	}
+}
